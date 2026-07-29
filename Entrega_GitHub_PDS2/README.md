@@ -1,4 +1,10 @@
 # Sistema Forense Híbrido (IA + PDS) para Autenticación de Papel Moneda Peruano
+## Integrantes:
+- Castro Chinguel Jorge Luis 1332023024   
+- Chapa Chavez Josué 1332023082
+- Litano Talledo Ronald Emanuel 1332023064
+- Viera Cabezudo Aaron 13320230241
+- Barrientos Morante María 1332022085
 
 ## Descripción general del proyecto
 Este proyecto es un pipeline computacional de nivel forense diseñado para la validación y autenticación de papel moneda peruano. Combina la capacidad de generalización semántica del Deep Learning (Inteligencia Artificial) con el rigor determinístico y la transparencia del Procesamiento Digital de Señales (PDS) en 2D. El sistema es capaz de detectar falsificaciones mediante el análisis de micro-texturas, frecuencias espaciales y relieve calcográfico (Intaglio).
