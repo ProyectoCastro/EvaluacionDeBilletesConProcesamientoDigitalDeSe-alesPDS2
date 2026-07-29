@@ -41,6 +41,7 @@ Para probar el sistema sin conflictos de dependencias, recomendamos crear un ent
 
 ```bash
 # 1. Clonar el repositorio y entrar a la carpeta
+**Enlace al Dataset original**: [https://www.kaggle.com/datasets/nicolascaytuirosilva/peruvian-banknotes]
 cd Entrega_GitHub_PDS2
 
 # 2. Crear y activar un entorno virtual
