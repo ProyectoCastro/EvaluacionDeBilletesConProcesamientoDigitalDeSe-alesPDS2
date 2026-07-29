@@ -1,0 +1,135 @@
+{
+  "log_Lap_Var": {
+    "mean": 9.98984187527289,
+    "std": 0.49949209376364456,
+    "threshold": 8.491365593981957,
+    "direction": "higher",
+    "weight": 2
+  },
+  "LBP_Uniformity": {
+    "mean": 0.2537579367559224,
+    "std": 0.012687896837796121,
+    "threshold": 0.21569424624253403,
+    "direction": "higher",
+    "weight": 2
+  },
+  "LBP_Entropy": {
+    "mean": 2.839981703901017,
+    "std": 0.14199908519505086,
+    "threshold": 3.2659789594861692,
+    "direction": "lower",
+    "weight": 2
+  },
+  "GLCM_Corr": {
+    "mean": 0.4991344701237375,
+    "std": 0.028520289148408512,
+    "threshold": 0.5846953375689631,
+    "direction": "lower",
+    "weight": 2
+  },
+  "log_Wav_Energy": {
+    "mean": 8.263932497055809,
+    "std": 0.41319662485279046,
+    "threshold": 7.0243426224974375,
+    "direction": "higher",
+    "weight": 1
+  },
+  "HF_Ratio_DWT": {
+    "mean": 0.04800726112634892,
+    "std": 0.003956213673098222,
+    "threshold": 0.03613862010705425,
+    "direction": "higher",
+    "weight": 1
+  },
+  "HFR": {
+    "mean": 7.140954677747876e-05,
+    "std": 5.892795574427927e-06,
+    "threshold": 5.373116005419497e-05,
+    "direction": "higher",
+    "weight": 1
+  },
+  "GLCM16_Dissim": {
+    "mean": 2.442230931745421,
+    "std": 0.1291895406008737,
+    "threshold": 2.0546623099428,
+    "direction": "higher",
+    "weight": 1
+  },
+  "GLCM_Energy": {
+    "mean": 0.17674710521363718,
+    "std": 0.00883735526068186,
+    "threshold": 0.20325917099568275,
+    "direction": "lower",
+    "weight": 1
+  },
+  "GLCM_Homog": {
+    "mean": 0.5337185541933056,
+    "std": 0.026685927709665283,
+    "threshold": 0.6137763373223014,
+    "direction": "lower",
+    "weight": 1
+  },
+  "GLCM_Contrast": {
+    "mean": 3.0620956753249957,
+    "std": 0.25176491053550387,
+    "threshold": 3.817390406931507,
+    "direction": "lower",
+    "weight": 1
+  },
+  "GLCM16_Contrast": {
+    "mean": 11.19359975851192,
+    "std": 0.9830061880964015,
+    "threshold": 14.142618322801125,
+    "direction": "lower",
+    "weight": 1
+  },
+  "log_LocalVar_Mean": {
+    "mean": 7.359834343321154,
+    "std": 0.3679917171660577,
+    "threshold": 6.255859191822981,
+    "direction": "higher",
+    "weight": 1
+  },
+  "log_LocalVar_Var": {
+    "mean": 14.218378285871314,
+    "std": 0.7109189142935657,
+    "threshold": 12.085621542990616,
+    "direction": "higher",
+    "weight": 2
+  },
+  "Edge_Density": {
+    "mean": 0.35524828629032257,
+    "std": 0.01776241431451613,
+    "threshold": 0.3019610433467742,
+    "direction": "higher",
+    "weight": 1
+  },
+  "Grad_Mean": {
+    "mean": 184.50550852655425,
+    "std": 9.225275426327713,
+    "threshold": 156.8296822475711,
+    "direction": "higher",
+    "weight": 1
+  },
+  "Frangi": {
+    "mean": 34.47155103097832,
+    "std": 2.226922514004683,
+    "threshold": 41.15231857299237,
+    "direction": "lower",
+    "weight": 1
+  },
+  "log_Gabor_Var": {
+    "mean": 2.4393880278881244,
+    "std": 0.12196940139440622,
+    "threshold": 2.073479823704906,
+    "direction": "higher",
+    "weight": 1
+  },
+  "Lap_Kurtosis": {
+    "mean": 1.5002580320594432,
+    "std": 0.20104631594072256,
+    "threshold": 0.8971190842372755,
+    "direction": "higher",
+    "weight": 3
+  }
+}
